@@ -1,0 +1,10 @@
+1.UNDIRECTED GRAPH: it acts as bidirectional graph
+characteristics:
+symmetry,connectivity
+->DEPTH FOR SEARCH
+->BREADTH FOR SEARCH
+
+2.BIDIRECTED GRAPH: it acts as unidirection graph
+char:unsymmetry,connectivity
+->TOPOLOGICAL SORT
+->DIJKSTRA'S ALGORITHM
