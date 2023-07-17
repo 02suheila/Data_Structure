@@ -2,7 +2,7 @@
 characteristics:
 symmetry,connectivity
 ->DEPTH FOR SEARCH
-->BREADTH FOR SEARCH
+->BREADTH FOR SEARCH: calulate adj list from edges-make unvisited array- append a value into deque-make as marked -pop it- for pop value make as marked in adjancency list
 
 2.BIDIRECTED GRAPH: it acts as unidirection graph
 char:unsymmetry,connectivity
